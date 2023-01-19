@@ -13,9 +13,9 @@ Start the app in Jupyter Notebook app mode →
 
 ## App backend dependencies
 This app depends on the following open-source packages from the [BMCS Group](https://github.com/bmcs-group):
-* [bmcs_cross_section](https://github.com/bmcs-group/bmcs_cross_section): for calculating moment-curvature behaviour of a cross-section.
-* [bmcs_beam](https://github.com/bmcs-group/bmcs_beam): for calculating the load-deflection response of a beam.
-* [bmcs_utils](https://github.com/bmcs-group/bmcs_utils): graphical user interface support using Jupyter widgets.
+* [bmcs_cross_section](https://pypi.org/project/bmcs-cross-section): for calculating moment-curvature behaviour of a cross-section.
+* [bmcs_beam](https://pypi.org/project/bmcs-beam): for calculating the load-deflection response of a beam.
+* [bmcs_utils](https://pypi.org/project/bmcs-utils): graphical user interface support using Jupyter widgets.
 
 ## Cite with: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7550117.svg)](https://doi.org/10.5281/zenodo.7550117)
 The repository can refered to using a unique doi hosted at https://zenodo.org
