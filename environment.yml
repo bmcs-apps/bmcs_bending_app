@@ -4,7 +4,7 @@ channels:
 dependencies:
 - traits
 - appmode
-- matplotlib
+- matplotlib==3.5.2
 - numpy
 - sympy
 - scipy
@@ -16,9 +16,9 @@ dependencies:
 - importlib_resources
 - pip
 - pip:
-  - anastruct
+  - anastruct==1.2.0
   - openpyxl
   - bmcs-utils==0.0.32a0
   - bmcs-ibvpy==0.0.25a0
   - bmcs-cross-section==0.0.55a0
-  - bmcs-beam==0.0.19a0
+  - bmcs-beam==0.0.20a0
