@@ -11,6 +11,8 @@ Start the app in standard Jupyter Notebook mode →
 Start the app in Jupyter Notebook app mode → 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bmcs-apps/bmcs_bending_app/main?urlpath=apps%2Fbmcs_bending_app.ipynb)
 
+(By clicking on the links, the application will be launched in few minutes using "mybinder" service associated with the github repository)
+
 ## App backend dependencies
 This app depends on the following open-source packages from the [BMCS Group](https://github.com/bmcs-group):
 * [bmcs_cross_section](https://pypi.org/project/bmcs-cross-section): for calculating moment-curvature behaviour of a cross-section.
